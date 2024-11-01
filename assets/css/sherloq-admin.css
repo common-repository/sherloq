@@ -1,0 +1,20 @@
+.sherloq-admin-settings table {
+  border: 1px solid #333;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.sherloq-admin-settings table th {
+  background: #333;
+  color: #fff !important;
+  padding: 20px 10px !important;
+}
+
+.sherloq-admin-settings table td {
+  border: 1px solid #333;
+  padding: 20px;
+}
+
+.sherloq-admin-settings table tr td.logging {
+  overflow-x: scroll;
+}
